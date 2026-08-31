@@ -1,16 +1,22 @@
 # OIBSIP
-Oasis infobyte internship projects
-# Iris Flower Classification 🌸
+ Data Science Internship Projects
 
-## About the Project
-This project was completed as part of the Oasis Infobyte Internship.
+This repository contains my projects completed as part of the **Oasis Infobyte Data Science Internship (OIBSIP)**.
 
-The objective is to build a machine learning model that can classify Iris flowers into three species:
+## 📌 Task 1 – Iris Flower Classification 🌸
+
+### About the Project
+
+The objective of this project is to build a machine learning classification model that predicts the species of an Iris flower based on its measurements.
+
+The three species are:
+
 - Iris Setosa
 - Iris Versicolor
 - Iris Virginica
 
-## Technologies Used
+### Technologies Used
+
 - Python
 - Google Colab
 - Pandas
@@ -18,14 +24,100 @@ The objective is to build a machine learning model that can classify Iris flower
 - Matplotlib
 - Scikit-learn
 
-## Machine Learning
-The Iris dataset was used to train and test a classification model. The model predicts the species of an Iris flower based on its measurements.
+### Machine Learning
 
-## Result
-The trained model successfully predicts the Iris flower species.
+The Iris dataset was used to train and test a classification model. The model predicts the species of an Iris flower using its measured features.
 
-## Project File
-Iris_Flower_Classification.ipynb
+### Result
 
-## Internship
-Oasis Infobyte Internship — OIBSIP
+The trained machine learning model successfully predicts the Iris flower species.
+
+### Project File
+
+`Iris_Flower_Classification.ipynb`
+
+---
+
+## 📊 Task 2 – Unemployment Analysis in India
+
+### About the Project
+
+This project analyzes unemployment data in India to identify patterns and differences in unemployment rates across different regions and over time.
+
+### Analysis Performed
+
+- Data cleaning and preprocessing
+- Handling missing values
+- Descriptive statistical analysis
+- Region-wise unemployment analysis
+- Unemployment trends over time
+- Urban and rural comparison
+- COVID-19 period analysis
+- Correlation analysis
+- Data visualization
+
+### Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Key Finding
+
+The analysis shows significant differences in unemployment rates across regions in India, with noticeable changes over time and during the COVID-19 period.
+
+### Project File
+
+`RAKESH_Task2_Unemployment_Analysis.ipynb`
+
+---
+
+## 🚗 Task 3 – Car Price Prediction
+
+### About the Project
+
+This project focuses on predicting car prices using machine learning techniques. The dataset is analyzed and prepared before training a machine learning model to estimate car prices.
+
+### Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### Machine Learning
+
+The project uses data preprocessing, exploratory data analysis, feature selection, model training, and evaluation to build a car price prediction model.
+
+### Result
+
+The trained machine learning model is used to predict car prices based on the available features in the dataset.
+
+### Project File
+
+`OIBSIP_DataScience_Task3_Car_Price_Prediction.ipynb`
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- GitHub
+
+## 🎓 Internship
+
+**Oasis Infobyte Data Science Internship – OIBSIP**
+
+This repository contains the work completed during the internship.
